@@ -1,0 +1,19 @@
+Time taken for feature map creation: 0.0013 seconds
+Time taken for quantum kernel creation: 0.5680 seconds
+Time taken for PegasosQSVC training: 9.2924 seconds
+
+--- Training Metrics ---
+TP: 1033, TN: 0, FP: 1056 (Type I Error), FN: 0 (Type II Error)
+Accuracy: 49.45%
+Precision: 24.72%
+Recall: 50.00%
+F1 Score: 33.09%
+Time taken for training predictions: 4808.5945 seconds
+
+--- Testing Metrics ---
+TP: 128, TN: 0, FP: 105 (Type I Error), FN: 0 (Type II Error)
+Accuracy: 54.94%
+Precision: 27.47%
+Recall: 50.00%
+F1 Score: 35.46%
+Time taken for test predictions: 524.3278 seconds
